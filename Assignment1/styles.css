@@ -1,0 +1,50 @@
+h1{
+    color: crimson;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+p>i{
+    color: darkred;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.points{
+    color: darkred;
+    line-height: 30px;
+}
+
+.cut{
+    text-decoration: line-through;
+}
+
+.paint{
+    background: yellow;
+}
+
+.linebelow{
+    text-decoration: underline;
+}
+
+h1>i{
+    color: blue;
+}
+
+.prepHome{
+    background: yellow;
+    text-decoration: none;
+}
+
+a:hover{
+    color: chocolate;
+}
+
+
+
+.ways{
+    color: darkred;
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 20px;
+}

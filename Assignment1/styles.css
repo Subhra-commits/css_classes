@@ -4,6 +4,11 @@ h1{
     padding-top: 0;
 }
 
+/*.heading{
+    border: 3px solid darkorange;
+ 
+}*/
+
 p>i{
     color: darkred;
     font-weight: bold;
@@ -20,7 +25,7 @@ p>i{
 }
 
 .paint{
-    background: yellow;
+    background-color: yellow;
 }
 
 .linebelow{
@@ -32,12 +37,23 @@ h1>i{
 }
 
 .prepHome{
-    background: yellow;
+    background-color: yellow;
     text-decoration: none;
+    font-style: italic;
+}
+
+a > img{
+    height: 100px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 a:hover{
     color: chocolate;
+    background-color: teal;
 }
 
 
@@ -50,6 +66,11 @@ a:hover{
 }
 
 .mark{
-    background: yellow;
+    background-color: yellow;
     font-weight: bolder;
+}
+
+button{
+    background-color: yellowgreen;
+    font-size: 15px;
 }

@@ -73,4 +73,5 @@ a:hover{
 button{
     background-color: yellowgreen;
     font-size: 15px;
+    border-radius: 5px;
 }
